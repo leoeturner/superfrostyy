@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @superfrostyy
-- 👀 I’m interested in coding and software development
-- 🌱 I’m currently learning front end web development
-- 💞️ I’m looking to collaborate on front end projects
+- 👀 I’m interested in Software/Ai Development
+- 🌱 I’m currently learning Computer Science.
+- 💞️ I’m not looking to Collaborate.
 - 📫 How to reach me email- leoeturner123@gmail.com
 
 <!---
